@@ -1,0 +1,24 @@
+{
+
+"monster": [     
+     {
+      "id": 0,
+      "name": "Bear",
+      "class": "Beasts",
+      "weakness": 3,
+      "description": "7",
+      "img":"/img/1.png"
+    },
+  
+    {
+      "id": 1,
+      "name": "Berserker",
+      "class": "Beasts",
+      "weakness": 3,
+      "description": "7",
+      "img":"/img/2.png"
+    }
+  
+]
+
+}
