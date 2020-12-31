@@ -1,0 +1,143 @@
+{
+
+"monster": [     
+     {
+      "id": 0,
+      "name": "Bear",
+      "class": "Beasts",
+      "oilweakness":["aard"],
+      "signweakness":["bla"],
+      "description": "Bears are generally found far from human habitation, either in the high mountains or in the deep woods. Opposite of dogs and wolves, bears are solitary creatures, which is probably for the best considering how strong a killing machine they are. It is simple enough a thing to avoid fighting a bear, but that is not always the case. A bear may be clumsy but they run at high speeds despite their bulky sizes, so running away may not always be an option, especially if you have already angered the bear."
+    },
+  
+    {
+      "id": 1,
+      "name": "The Beast of Beauclair",
+      "class": "Beasts",
+      "oilweakness":["aard", "igni"],
+      "signweakness":[],
+      "description": "The Beast of Beauclair, whose true name was Dettlaff van der Eretein, was a serial killer in Beauclair in 1275."
+    },
+
+    {
+        "id": 2,
+        "name": "Wolf",
+        "class": "Beasts",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Wolves are an aggressive and carnivorous species of wild animal, related to the domesticated dogs found in human settlements."
+    },
+    
+    {
+       "id": 3,
+       "name": "Berserkers",
+       "class": "Cursed Ones",
+       "oilweakness":[],
+       "signweakness":[],
+       "description": "Werebears,on Skellige known as berserkers, are therianthropes who transform into bears or half-bears. As other such creatures, they are hardly hurt by steel but are still very vulnerable to silver."
+     },
+
+     {
+        "id": 4,
+        "name": "Botchling",
+        "class": "Cursed Ones",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Botchling (Polish: poroniec) is a small creature, resembling a highly deformed fetus - created from the improper burial of unwanted, stillborn infants - that preys on pregnant women. While hiding beneath beds, botchlings sap the expectant mother of strength and once she is completely defenseless it will latch on and directly feed off blood, killing both her and the unborn child."
+      },
+
+
+      {
+        "id": 5,
+        "name": "Ulfhedinn",
+        "class": "Cursed Ones",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Ulfhedinn is a stronger type of werewolf which can be found around Skellige."
+      },
+
+      {
+        "id": 6,
+        "name": "Werewolf",
+        "class": "Cursed Ones",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Werewolves are therianthropes who transform into wolves or half-wolves. As other such creatures, they are hardly hurt by steel but very vulnerable to silver."
+      },
+
+      {
+        "id": 7,
+        "name": "Basilisk",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Basilisk is a draconid which sometimes terrorizes communities. They have birdlike beaks, webbed wings, hooked talons, and crimson dewlaps."
+      },
+
+      {
+        "id": 8,
+        "name": "Cockatrice",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Cockatrice, also known as a skoffin and kurolishek, is an ornithosaur. It's also the only creature to belong to the order of ornithoreptile according to scholars, but why exactly they decided on this is not revealed. Its central tail feathers are also valuable as they're more durable and sharpen better than regular goose feathers for quills."
+      },
+
+      {
+        "id": 9,
+        "name": "Forktail",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Forktail (Polish: widłogon) is a creature related to dragons, but smaller and not intelligent. Just as the name suggests, it can be recognized by its forked tail."
+      },
+
+      {
+        "id": 10,
+        "name": "Royal wyvern",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Royal wyvern — this larger and more dangerous breed of wyvern is highly aggressive and venomous. The creature is particularly terrifying because it has no fear of even throngs of peasants armed with pikes and pitchforks. This is especially true when it is feeding."
+      },
+
+      {
+        "id": 11,
+        "name": "Shrieker",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Shrieker is a powerful Cockatrice living inside a cave located on the outskirts of Crow's Perch."
+      },
+
+      {
+        "id": 12,
+        "name": "The Dragon of Fyresdal",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "The Dragon of Fyresdal is a powerful forktail living in the ruins of a destroyed assault tower near the village of its nickname. It's inaccurately referred to as a dragon on account of the villagers mistakenly believing it is one."
+      },
+
+      {
+        "id": 13,
+        "name": "Wyvern",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Wyverns are great flying reptiles with snake-like necks and long tails that end in a venomous trident. Swooping down from the sky, they easily snatch their prey and carry it off to their nest, not caring if it is a sheep or a man."
+      },
+
+      {
+        "id": 14,
+        "name": "Wyvern",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Wyverns are great flying reptiles with snake-like necks and long tails that end in a venomous trident. Swooping down from the sky, they easily snatch their prey and carry it off to their nest, not caring if it is a sheep or a man."
+      },
+  
+  
+]
+
+}

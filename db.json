@@ -5,20 +5,45 @@
       "id": 0,
       "name": "Bear",
       "class": "Beasts",
-      "weakness": 3,
-      "description": "7",
-      "img":"/img/1.png"
+      "weakness":{},
+      "description": "Bears are generally found far from human habitation, either in the high mountains or in the deep woods. Opposite of dogs and wolves, bears are solitary creatures, which is probably for the best considering how strong a killing machine they are. It is simple enough a thing to avoid fighting a bear, but that is not always the case. A bear may be clumsy but they run at high speeds despite their bulky sizes, so running away may not always be an option, especially if you have already angered the bear.",
+      "img":"/img/0.png"
     },
   
     {
       "id": 1,
-      "name": "Berserker",
+      "name": "The Beast of Beauclair",
       "class": "Beasts",
       "weakness": 3,
       "description": "7",
-      "img":"/img/2.png"
+      "img":"/img/1.png"
     }
   
+],
+
+"signs": [     
+  {
+   "id": 0,
+   "name": "Aard",
+   "description": "",
+   "img":"/img/0.png"
+ }
+
+],
+
+"oils": [     
+  {
+   "id": 0,
+   "name": "Aard",
+   "description": "",
+   "img":"/img/0.png"
+ }
+
 ]
 
 }
+
+
+
+
+  
