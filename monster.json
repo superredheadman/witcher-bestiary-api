@@ -136,6 +136,15 @@
         "signweakness":[],
         "description": "Wyverns are great flying reptiles with snake-like necks and long tails that end in a venomous trident. Swooping down from the sky, they easily snatch their prey and carry it off to their nest, not caring if it is a sheep or a man."
       },
+
+      {
+        "id": 15,
+        "name": "Wyvern",
+        "class": "Draconids",
+        "oilweakness":[],
+        "signweakness":[],
+        "description": "Wyverns are great flying reptiles with snake-like necks and long tails that end in a venomous trident. Swooping down from the sky, they easily snatch their prey and carry it off to their nest, not caring if it is a sheep or a man."
+      }
   
   
 ]
