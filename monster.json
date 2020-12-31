@@ -5,8 +5,8 @@
       "id": 0,
       "name": "Bear",
       "class": "Beasts",
-      "oilweakness":["aard"],
-      "signweakness":["bla"],
+      "oilweakness":0,
+      "signweakness":0,
       "description": "Bears are generally found far from human habitation, either in the high mountains or in the deep woods. Opposite of dogs and wolves, bears are solitary creatures, which is probably for the best considering how strong a killing machine they are. It is simple enough a thing to avoid fighting a bear, but that is not always the case. A bear may be clumsy but they run at high speeds despite their bulky sizes, so running away may not always be an option, especially if you have already angered the bear."
     },
   
@@ -14,8 +14,8 @@
       "id": 1,
       "name": "The Beast of Beauclair",
       "class": "Beasts",
-      "oilweakness":["aard", "igni"],
-      "signweakness":[],
+      "oilweakness":0,
+      "signweakness":0,
       "description": "The Beast of Beauclair, whose true name was Dettlaff van der Eretein, was a serial killer in Beauclair in 1275."
     },
 
@@ -23,8 +23,8 @@
         "id": 2,
         "name": "Wolf",
         "class": "Beasts",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Wolves are an aggressive and carnivorous species of wild animal, related to the domesticated dogs found in human settlements."
     },
     
@@ -32,8 +32,8 @@
        "id": 3,
        "name": "Berserkers",
        "class": "Cursed Ones",
-       "oilweakness":[],
-       "signweakness":[],
+       "oilweakness":0,
+       "signweakness":0,
        "description": "Werebears,on Skellige known as berserkers, are therianthropes who transform into bears or half-bears. As other such creatures, they are hardly hurt by steel but are still very vulnerable to silver."
      },
 
@@ -41,8 +41,8 @@
         "id": 4,
         "name": "Botchling",
         "class": "Cursed Ones",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Botchling (Polish: poroniec) is a small creature, resembling a highly deformed fetus - created from the improper burial of unwanted, stillborn infants - that preys on pregnant women. While hiding beneath beds, botchlings sap the expectant mother of strength and once she is completely defenseless it will latch on and directly feed off blood, killing both her and the unborn child."
       },
 
@@ -51,8 +51,8 @@
         "id": 5,
         "name": "Ulfhedinn",
         "class": "Cursed Ones",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Ulfhedinn is a stronger type of werewolf which can be found around Skellige."
       },
 
@@ -60,8 +60,8 @@
         "id": 6,
         "name": "Werewolf",
         "class": "Cursed Ones",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Werewolves are therianthropes who transform into wolves or half-wolves. As other such creatures, they are hardly hurt by steel but very vulnerable to silver."
       },
 
@@ -69,8 +69,8 @@
         "id": 7,
         "name": "Basilisk",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Basilisk is a draconid which sometimes terrorizes communities. They have birdlike beaks, webbed wings, hooked talons, and crimson dewlaps."
       },
 
@@ -78,8 +78,8 @@
         "id": 8,
         "name": "Cockatrice",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Cockatrice, also known as a skoffin and kurolishek, is an ornithosaur. It's also the only creature to belong to the order of ornithoreptile according to scholars, but why exactly they decided on this is not revealed. Its central tail feathers are also valuable as they're more durable and sharpen better than regular goose feathers for quills."
       },
 
@@ -87,8 +87,8 @@
         "id": 9,
         "name": "Forktail",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Forktail (Polish: widłogon) is a creature related to dragons, but smaller and not intelligent. Just as the name suggests, it can be recognized by its forked tail."
       },
 
@@ -96,8 +96,8 @@
         "id": 10,
         "name": "Royal wyvern",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Royal wyvern — this larger and more dangerous breed of wyvern is highly aggressive and venomous. The creature is particularly terrifying because it has no fear of even throngs of peasants armed with pikes and pitchforks. This is especially true when it is feeding."
       },
 
@@ -105,8 +105,8 @@
         "id": 11,
         "name": "Shrieker",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Shrieker is a powerful Cockatrice living inside a cave located on the outskirts of Crow's Perch."
       },
 
@@ -114,8 +114,8 @@
         "id": 12,
         "name": "The Dragon of Fyresdal",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "The Dragon of Fyresdal is a powerful forktail living in the ruins of a destroyed assault tower near the village of its nickname. It's inaccurately referred to as a dragon on account of the villagers mistakenly believing it is one."
       },
 
@@ -123,8 +123,8 @@
         "id": 13,
         "name": "Wyvern",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Wyverns are great flying reptiles with snake-like necks and long tails that end in a venomous trident. Swooping down from the sky, they easily snatch their prey and carry it off to their nest, not caring if it is a sheep or a man."
       },
 
@@ -132,8 +132,8 @@
         "id": 14,
         "name": "Wyvern",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Wyverns are great flying reptiles with snake-like necks and long tails that end in a venomous trident. Swooping down from the sky, they easily snatch their prey and carry it off to their nest, not caring if it is a sheep or a man."
       },
 
@@ -141,12 +141,644 @@
         "id": 15,
         "name": "Wyvern",
         "class": "Draconids",
-        "oilweakness":[],
-        "signweakness":[],
+        "oilweakness":0,
+        "signweakness":0,
         "description": "Wyverns are great flying reptiles with snake-like necks and long tails that end in a venomous trident. Swooping down from the sky, they easily snatch their prey and carry it off to their nest, not caring if it is a sheep or a man."
+      },
+
+      {
+        "id": 16,
+        "name": "Djinn",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Djinn, D'jinni or Djinniah is the name given to an elemental genie of Air. In the short story, The Last Wish, the first Witcher short story collection by Andrzej Sapkowski, Dandelion released a Djinn which wreaked havoc in Rinde. It is in the same story that we learn of Geoffrey Monck, a mage, who had captured numerous djinns and harnessed their powers for his own gain."
+      },
+
+      {
+        "id": 17,
+        "name": "Earth Elemental",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "There is an Earth elemental labeled as golem in the cave under the Kaedweni camp near the shore by the Nilfgaardian camp, in Chapter II. You can find it by exploring the caves while searching for Triss. Another one can be found in Kingslayers' hideout."
+      },
+  
+      
+      {
+        "id": 18,
+        "name": "Fire Elemental",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "There is a hit detection issue during combat with this type of golem, sometimes allowing it to cause damage even when it appears to miss."
+      },
+      
+      {
+        "id": 19,
+        "name": "Gargoyle",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Gargoyles are animated stone statues infused with lava by mages."
+      },
+
+      {
+        "id": 20,
+        "name": "Golem",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Frustrating jobs happen in every profession. Golem contracts are just such a job for witchers, as they involve slashing through solid rock animated by magic. Luckily, what is brought to life by a lightning bolt can very well be destroyed by one. This is something we all truly wish the golem, from the very bottom of our hearts."
+      },
+
+      {
+        "id": 21,
+        "name": "Hound of the Wild Hunt",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Hounds of the Wild Hunt are monsters in The Witcher 3: Wild Hunt. They either follow riders of the Wild Hunt or are summoned by them."
+      },
+
+      {
+        "id": 22,
+        "name": "Ice Elemental",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "An ice elemental is a mass of frozen water animated by magic. Deprived of consciousness or independent will, this elemental is boundlessly obedient to the orders of the mage who created it. Those orders usually contain but one syllable: kill."
+      },
+            {
+        "id": 23,
+        "name": "The Apiarian Phantom",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "The Apiarian Phantom is a powerful Hound of the Wild Hunt who strayed from its pack during one of their numerous raids."
+      },
+
+      {
+        "id": 24,
+        "name": "Therazane",
+        "class": "Elementa",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Therazane is a powerful earth elemental which had been imprisoned by its previous owner in a magical prison, located inside elven ruins found just underneath Moldavie Residence."
+      },
+
+      {
+        "id": 25,
+        "name": "Erynia",
+        "class": "Hybrids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Erynias are a species of harpy."
+      },
+
+      {
+        "id": 26,
+        "name": "Griffin",
+        "class": "Hybrids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "A griffin, also known as griffon or gryphon, is a creature with the body, legs, and tail of a lion and the head, wings, and talons of an eagle. They are known to toy with their prey, eating it alive, piece by piece."
+      },
+
+      {
+        "id": 27,
+        "name": "Harpy",
+        "class": "Hybrids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "A harpy is a monster with a woman's head and a bird's body."
+      },
+      
+      {
+        "id": 28,
+        "name": "Melusine",
+        "class": "Hybrids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Melusine is an old and powerful ekhidna living in a large complex of caves near the village of Svorlag, located in Skellige. It is presumed that a cult once worshipped Melusine as evidenced by the large winged statue located in the caves beneath the mountains which she inhabits."
+      },
+
+      {
+        "id": 29,
+        "name": "Opinicus",
+        "class": "Hybrids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Opinicus is a very powerful archgriffin living in the forests east of Oxenfurt. Many mercenary companies in the past have tried to take down this beast, but to no avail."
+      },
+
+      {
+        "id": 30,
+        "name": "Siren",
+        "class": "Hybrids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "While the game calls these sirens, they're more accurately nixa: a far more vicious type of siren that, unlike merpeople, have wings, allowing them to fly"
+      },
+
+      {
+        "id": 31,
+        "name": "Succubus",
+        "class": "Hybrids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "A succubus (female) or incubus (male) is a creature, sometimes considered a demon, looking like a highly attractive human being seducing real humans, first appearing in dreams from time to time, then physically, and is interested only in men that have already come of age. Neither succubi nor incubi are particularly violent, though they draw energy from the men and women to sustain themselves, often until the point of exhaustion or death of the victim."
+      },
+
+      {
+        "id": 32,
+        "name": "Arachas",
+        "class": "Insectoids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Arachas, or crab spider, is a large insectoid. It has a distinctly large abdomen."
+      },
+
+      {
+        "id": 33,
+        "name": "Armored arachas",
+        "class": "Insectoids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "An armored arachas is a true behemoth. It uses its enormous mass to knock over and trample its victims then devours their crushed remains. Like all arachasae, it is highly venomous, and thus Golden Oriole should always be consumed before fighting it."
+      },
+
+     {
+        "id": 34,
+        "name": "Endrega drone",
+        "class": "Insectoids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Endrega males – called 'drones' – are gluttonous creatures whose only aim in life is to eat, fight and reproduce. Yet when venturing outside their nests, these aggressive hunters attack any and every creature they come across."
+      },
+
+      {
+        "id": 35,
+        "name": "Endrega warrior",
+        "class": "Insectoids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Scared of these endregas, are you? Just wait till you see the warriors."
+      },
+
+      {
+        "id": 36,
+        "name": "Endrega worker",
+        "class": "Insectoids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "I thought the workers were harmless. I thought wrong."
+      },
+
+      {
+        "id": 37,
+        "name": "Harrisi",
+        "class": "Insectoids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Harrisi is a powerful venomous arachas who has made her home in an abandoned mine located near the battlefront between Nilfgaard and Redania."
+      },
+
+      {
+        "id": 38,
+        "name": "Venomous arachas",
+        "class": "Insectoids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Though all arachasae are highly venomous, this breed produces an especially strong toxin. A few drops are enough to kill a grown man – unless that man is a witcher, whose mutations will neutralize small amounts of this venom. Large quantities, however, will kill anything they touch, with mutations only prolonging an inevitable and painful death in such instances."
+      },
+
+      {
+        "id": 39,
+        "name": "Abaya",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Abaya is a powerful water hag leading a pack of drowners in the bay beneath Kaer Trolde. They often attack fishermen and warriors who are crossing these treacherous waters."
+      },
+
+      {
+        "id": 40,
+        "name": "Alghoul",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "A particularly large ghoul that is fattened and craves warm meat is called an alghoul. It prefers to kill its victims, because it loves to eat, but it also likes to prepare its own meals."
+      },
+
+      {
+        "id": 41,
+        "name": "Drowner",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Drowners, also known as muire d'yaeblen in Skellige or vodniks, inhabit both natural and artificial bodies of water, from rivers and lakes to mill ponds and city sewers."
+      },
+
+      {
+        "id": 42,
+        "name": "Fogler",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Foglers, foglings, or foglets (Polish: Mglak) are magical beings said to have arrived during the Conjunction of the Spheres."
+      },
+
+      {
+        "id": 43,
+        "name": "Ghoul",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Ghouls are the most common corpse-eaters and usually roam around in packs."
+      },
+ 
+      {
+        "id": 44,
+        "name": "Grave hag",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Grave hags are territorial creatures. Their lairs resemble caricatures of human homes and are built near burial sites."
+      },
+ 
+      {
+        "id": 45,
+        "name": "Ignis Fatuus",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "It is an ancient and powerful foglet living in a cave located in the bogs of Velen. The necessity of using moon dust cannot be overstated."
+      },
+
+      {
+        "id": 46,
+        "name": "Mourntart",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Mourntart is a powerful grave hag prowling the cemetery of Lindenvale, where she digs up graves and kidnaps wandering children."
+      },
+ 
+      {
+        "id": 47,
+        "name": "Mucknixer",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Mucknixer is the name given by humans to a dangerous species of drowner and drowned dead."
+      },
+
+      {
+        "id": 48,
+        "name": "Rotfiend",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "What rotfiends are, everyone can see."
+      },
+
+      {
+        "id": 49,
+        "name": "Water hag",
+        "class": "Necrophages",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Water hags, like the drowners and swamp bints with whom they often share hunting grounds, dwell near shallow streams, rivers, and wetlands. Though bulky, they are excellent swimmers. They can even swim through thick mud with astonishing agility, surfacing beside their victims to attack them with their sickle-shaped claws."
+      },
+
+      {
+        "id": 50,
+        "name": "Chort",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Chorts are the somewhat smaller kin of fiends and bumbakvetches."
+      },
+
+      {
+        "id": 51,
+        "name": "Crones",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "The Crones, also called the Ladies of the Wood, are three witches who live in a cabin in the swamps of Velen. Legend suggests the three are sisters and the daughters of the original Lady of the Wood, also known as She-Who-Knows. They are named Brewess, Weavess, and Whispess."
+      },
+
+      {
+        "id": 52,
+        "name": "Doppler",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Dopplers (also called shifters, mimics, doubles, imitators, or pavrats) are shapeshifters who can take the form of anyone or any beast they have encountered, provided it has a similar body weight. They used to live in the plateau near modern-day Novigrad but moved to the city itself after it proved to offer more possibilities of survival."
+      },
+
+      {
+        "id": 53,
+        "name": "Fiend",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "The beast likely resembles a deer but its size resembles more a barn. Fiends also have a third eye which they use to hypnotize its opponents."
+      },
+
+      {
+        "id": 54,
+        "name": "Fugas",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Fugas was one of many servants of the Ladies of the Woods, who lived in Bald Mountain."
+      },
+      
+      {
+        "id": 55,
+        "name": "Godling",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Godling (Polish: bożątko) is a rare being capable of communicating in the common tongue."
+      },
+
+      {
+        "id": 56,
+        "name": "Howler",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Howler (Polish: Wyjec) is a powerful chort which has made its home near the village of Lindenvale."
+      },
+
+      {
+        "id": 57,
+        "name": "Janne",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Janne, or better known as Imp, was a doppler who lived in Novigrad around 1272."
+      },
+
+      {
+        "id": 58,
+        "name": "Kernun",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Kernun is a powerful, old leshen who established its presence in the woods just outside Novigrad."
+      },
+
+      {
+        "id": 59,
+        "name": "Leshy",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "A leshy (Polish: Leszy, in English sometimes spelled Leshii, Leszi, or Lessun), also known as leshen or spriggan in the game series, is a forest monster that is described as something that lives only to kill. When they kill something or someone, they do not leave much for any carrion eaters."
+      },
+      
+      {
+        "id": 60,
+        "name": "Morvudd",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Morvudd (Nilfgaardian language: enemy) is a powerful fiend who has made its home in the ruined village of Boxholm."
+      },
+      
+      
+      {
+        "id": 61,
+        "name": "Sylvan",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Sylvans, called willowers or pucks, and labeled superstitiously as devils (archaic Common: deovel; Elder Speech: d'yaebl; Dwarvish: duvvel), are are an exceptionally rare, intelligent race native to the woodlands of the Northern Kingdoms. They are distinguished by prominent goat-like visage and delight in pranks, feasting, and music."
+      },
+      
+            
+      {
+        "id": 62,
+        "name": "Woodland Spirit",
+        "class": "Relicts",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Woodland Spirit is a very old and very powerful leshen worshiped by the elders of the village of Fayrlund but is disliked by the younger inhabits of the village led by Sven."
+      },
+                  
+      {
+        "id": 63,
+        "name": "Devil by the Well",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Devil by the Well is a unique Noonwraith in The Witcher 3: Wild Hunt that is found in the the abandoned village of Hovel, White Orchard."
+      },
+
+                  
+      {
+        "id": 64,
+        "name": "Hym",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "It's particularly formidable in that it doesn't outright attack its target but instead feeds on the target's guilt, tormenting them to the point the person goes completely mad or they commit suicide."
+      },
+                  
+      {
+        "id": 65,
+        "name": "Jenny o' the Woods",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Jenny o' the Woods was the name given to a powerful nightwraith that haunted the fields near the village of Midcopse in Velen."
+      },
+
+      {
+        "id": 66,
+        "name": "Nightwraith",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "When the sun sets, the fields become the domain of midnight demons who draw their power from moonlight. Dark as the night itself and filled with grief, they roam the fields lit by silver light. Woe to those who are spotted by a nightwraith."
+      },
+
+
+      {
+        "id": 67,
+        "name": "Noonwraith",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Noonwraith — These monsters appear in fields when the sun is at its highest. Swaying grains on a windless day announce their arrival. They dance in circles in the light of day and draw farmers in to join them. Since they are ghosts, no one who joins them leaves the circle alive."
+      },
+      
+      {
+        "id": 68,
+        "name": "Penitent",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Penitent is a rare type of wraith who only haunts people who have done bad deeds. One is currently haunting the lighthouse keeper in Eldberg Lighthouse on Ard Skellig."
+      },
+      
+      {
+        "id": 69,
+        "name": "Plague maiden",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Plague maiden, also called Pesta, is a spirit personifying disease and pestilence."
+      },    
+
+      {
+        "id": 70,
+        "name": "The White Lady",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "This specter was formerly a woman named Luzi, who committed suicide after abandoning her wedding for unknown reasons. She ran into the fields west of Drahim Castle and slashed her wrists with a dagger, transforming her into a noonwraith."
+      },   
+      
+      {
+        "id": 70,
+        "name": "Wraith",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Wraiths appear near cemeteries or in homes they inhabited during their lives."
+      },
+ 
+       
+      {
+        "id": 71,
+        "name": "Wraith",
+        "class": "Specters",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Wraiths appear near cemeteries or in homes they inhabited during their lives."
+      },
+        
+      {
+        "id": 72,
+        "name": "Ekimma",
+        "class": "Vampires",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "An ekimma or ekimmara is a type of lower vampire like fleders are. These tend to be more vicious and animalistic."
+      },
+
+     {
+        "id": 73,
+        "name": "Gael",
+        "class": "Vampires",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Gael is a Katakan which has acquired a taste for the blood of drunkards and an eye for shiny jewelry in Oxenfurt."
+      },
+
+
+      {
+        "id": 74,
+        "name": "Higher Vampire",
+        "class": "Vampires",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Higher Vampires are an incredibly rare form of vampire and are often mistaken for their lesser brethren."
+      },
+
+
+      {
+        "id": 75,
+        "name": "Katakan",
+        "class": "Vampires",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Katakans are a vampire race found in the Northern Kingdoms, where they first appeared around the 230s BR, through the Conjunction of the Spheres."
+      },
+
+
+      {
+        "id": 76,
+        "name": "Sarasti",
+        "class": "Vampires",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Sarasti is a very old and very powerful Ekimmara resting inside an elven ruin beneath Byways, Velen."
+      },
+
+
+
+      {
+        "id": 77,
+        "name": "Cyclops",
+        "class": "Ogroids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Cyclopses can easily be recognized by the single eye located in the center of their foreheads. If for some reason that is not visible, other tell-tale signs are their enormous size, incredible strength and a seething hatred for all humans."
+      },
+
+
+      {
+        "id": 78,
+        "name": "Hagubman",
+        "class": "Ogroids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Cyclopses can easily be recognized by the single eye located in the center of their foreheads. If for some reason that is not visible, other tell-tale signs are their enormous size, incredible strength and a seething hatred for all humans."
+      },
+
+      {
+        "id": 79,
+        "name": "Ice giant",
+        "class": "Ogroids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "It is hard to provide a detailed description of the ice giant, for no witcher has ever faced it. It is known only from tales and second-hand reports that mix fact with legend. Skelliger claim its skin is blue because it was born of snow and ice, which is, of course, clearly impossible, though it does indeed seem capable of withstanding the fiercest frosts and in fact seems to draw strength from them."
+      },
+
+      {
+        "id": 80,
+        "name": "Ice troll",
+        "class": "Ogroids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Ice trolls are a breed of semi-intelligent troll species adapted for the cold regions of the Northern Realms and Skellige. Unlike their rock and normal brethren, they usually cannot speak the Common Speech. Their bestiary entry is obtained by reading The World Underground."
+      },
+
+     {
+        "id": 81,
+        "name": "Nekker",
+        "class": "Ogroids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Nekkers rarely attack alone, they tend to be found in groups near a nest. If the nest is not destroyed using either Samum or Grapeshot, they continue to spawn."
+      },
+
+     {
+        "id": 82,
+        "name": "Rock troll",
+        "class": "Ogroids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Rock trolls are an ogroid race that can communicate with humans and non-humans on a basic level. While they don't appear to be as advanced as other races, their ability to use Common Speech has meant various groups have them do jobs on occasion, usually in the form of guarding over something due to their brute strength."
+      },
+
+      
+     {
+        "id": 83,
+        "name": "Wham-a-Wham",
+        "class": "Ogroids",
+        "oilweakness":0,
+        "signweakness":0,
+        "description": "Wham-a-Wham is a powerful volcanic-like Rock Troll living inside a silver-rich cave on Ard Skellig."
       }
-  
-  
-]
+
+    ]
 
 }
