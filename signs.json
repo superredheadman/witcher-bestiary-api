@@ -4,33 +4,33 @@
       {
        "id": 0,
        "name": "Aard",
-       "description": "The Aard sign is a simple magical sign used by witchers. A directed blast of telekinetic energy that staggers opponents, leaving them open for a subsequent attack. This sign casts a directed wave of telekinetic energy that can stagger or knock down opponents, leaving them open for attack. Aard can also blow out any existing fires, blast open poorly secured doors, or punch through cracked or damaged walls or floors.",
+       "description": "The Aard sign is a simple magical sign used by witchers. A directed blast of telekinetic energy that staggers opponents, leaving them open for a subsequent attack. This sign casts a directed wave of telekinetic energy that can stagger or knock down opponents, leaving them open for attack. Aard can also blow out any existing fires, blast open poorly secured doors, or punch through cracked or damaged walls or floors."
      },
     
      {
         "id": 1,
         "name": "Igni",
-        "description": "The Igni sign is a simple magical sign used by witchers. It is comprised of a pyrokinetic burst that can repel and ignite opponents, as well as start fires. The fiery Igni Sign allows Geralt of Rivia to spread a wave of embers at his foes. It can also be used for something more subtle, such as lighting a torch or a campfire. Igni is incredibly effective against foes that are weak to fire. It can light enemies on fire and do damage over time. In some cases, this effect causes the enemy to panic. Additionally, any flammable gases in the air can be ignited to cause powerful explosions that can hurt and stun your enemies. Damage for Igni scales with Sign Intensity",
+        "description": "The Igni sign is a simple magical sign used by witchers. It is comprised of a pyrokinetic burst that can repel and ignite opponents, as well as start fires. The fiery Igni Sign allows Geralt of Rivia to spread a wave of embers at his foes. It can also be used for something more subtle, such as lighting a torch or a campfire. Igni is incredibly effective against foes that are weak to fire. It can light enemies on fire and do damage over time. In some cases, this effect causes the enemy to panic. Additionally, any flammable gases in the air can be ignited to cause powerful explosions that can hurt and stun your enemies. Damage for Igni scales with Sign Intensity"
       },
             
 
       {
         "id": 2,
         "name": "Quen",
-        "description": "The Quen sign is a simple magical sign used by witchers. When cast it forms a protective field around the casting witcher. This sign can be the difference between life and death. Quen's basic ability is to cover Geralt in a basic shield that absorbs a limited amount of damage.",
+        "description": "The Quen sign is a simple magical sign used by witchers. When cast it forms a protective field around the casting witcher. This sign can be the difference between life and death. Quen's basic ability is to cover Geralt in a basic shield that absorbs a limited amount of damage."
       },
 
      {
         "id": 3,
         "name": "Yrden",
-        "description": "The Yrden sign is a simple magical sign used by witchers. It forms a magical trap on the ground that triggers a limited number of times when traversed by a foe causing knock back, damage, and a chance of inflicting status ailments. Cast this Sign and a circle of Yrden symbols appears around Geralt. Most foes that wander into that ring are significantly slowed, though some monsters are unaffected by it.",
+        "description": "The Yrden sign is a simple magical sign used by witchers. It forms a magical trap on the ground that triggers a limited number of times when traversed by a foe causing knock back, damage, and a chance of inflicting status ailments. Cast this Sign and a circle of Yrden symbols appears around Geralt. Most foes that wander into that ring are significantly slowed, though some monsters are unaffected by it."
       },
 
    
       {
         "id": 4,
         "name": "Axii",
-        "description": "The Axii sign is a simple magical sign used by witchers. It is a mental wave that triggers a hex that causes an enemy to fight alongside the witcher. The effect can wear off over time or be broken via damage from the casting witcher. This sign muddles the mind of an opponent, making it possible to take them out of the fight temporarily. It's the most effective against humans, but can also work on certain monsters. Target an enemy that looks especially troublesome, then cast Axii to keep them out of the fight until you're ready to deal with them.",
+        "description": "The Axii sign is a simple magical sign used by witchers. It is a mental wave that triggers a hex that causes an enemy to fight alongside the witcher. The effect can wear off over time or be broken via damage from the casting witcher. This sign muddles the mind of an opponent, making it possible to take them out of the fight temporarily. It's the most effective against humans, but can also work on certain monsters. Target an enemy that looks especially troublesome, then cast Axii to keep them out of the fight until you're ready to deal with them."
       }
     ]
      }
