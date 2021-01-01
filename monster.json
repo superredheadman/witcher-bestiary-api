@@ -32,7 +32,7 @@
             "id": 3,
             "name": "Berserkers",
             "class": "Cursed Ones",
-            "oilweakness": 0,
+            "oilweakness": 1,
             "signweakness": [
                 1,
                 2
@@ -43,7 +43,7 @@
             "id": 4,
             "name": "Botchling",
             "class": "Cursed Ones",
-            "oilweakness": 0,
+            "oilweakness": 1,
             "signweakness": [],
             "description": "Botchling (Polish: poroniec) is a small creature, resembling a highly deformed fetus - created from the improper burial of unwanted, stillborn infants - that preys on pregnant women. While hiding beneath beds, botchlings sap the expectant mother of strength and once she is completely defenseless it will latch on and directly feed off blood, killing both her and the unborn child."
         },
@@ -51,7 +51,7 @@
             "id": 5,
             "name": "Ulfhedinn",
             "class": "Cursed Ones",
-            "oilweakness": 0,
+            "oilweakness": 1,
             "signweakness": [
                 1
             ],
@@ -61,7 +61,7 @@
             "id": 6,
             "name": "Werewolf",
             "class": "Cursed Ones",
-            "oilweakness": 0,
+            "oilweakness": 1,
             "signweakness": [],
             "description": "Werewolves are therianthropes who transform into wolves or half-wolves. As other such creatures, they are hardly hurt by steel but very vulnerable to silver."
         },
@@ -69,7 +69,7 @@
             "id": 7,
             "name": "Basilisk",
             "class": "Draconids",
-            "oilweakness": 0,
+            "oilweakness": 2,
             "signweakness": [
                 0
             ],
@@ -79,7 +79,7 @@
             "id": 8,
             "name": "Cockatrice",
             "class": "Draconids",
-            "oilweakness": 0,
+            "oilweakness": 2,
             "signweakness": [
                 0
             ],
@@ -89,7 +89,7 @@
             "id": 9,
             "name": "Forktail",
             "class": "Draconids",
-            "oilweakness": 0,
+            "oilweakness": 2,
             "signweakness": [
                 0
             ],
@@ -99,7 +99,7 @@
             "id": 10,
             "name": "Royal wyvern",
             "class": "Draconids",
-            "oilweakness": 0,
+            "oilweakness": 2,
             "signweakness": [
                 0
             ],
@@ -109,7 +109,7 @@
             "id": 11,
             "name": "Shrieker",
             "class": "Draconids",
-            "oilweakness": 0,
+            "oilweakness": 2,
             "signweakness": [
                 0
             ],
@@ -119,7 +119,7 @@
             "id": 12,
             "name": "The Dragon of Fyresdal",
             "class": "Draconids",
-            "oilweakness": 0,
+            "oilweakness": 2,
             "signweakness": [
                 0
             ],
@@ -129,7 +129,7 @@
             "id": 13,
             "name": "Wyvern",
             "class": "Draconids",
-            "oilweakness": 0,
+            "oilweakness": 2,
             "signweakness": [
                 0
             ],
@@ -139,7 +139,7 @@
             "id": 14,
             "name": "Djinn",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [],
             "description": "Djinn, D'jinni or Djinniah is the name given to an elemental genie of Air. In the short story, The Last Wish, the first Witcher short story collection by Andrzej Sapkowski, Dandelion released a Djinn which wreaked havoc in Rinde. It is in the same story that we learn of Geoffrey Monck, a mage, who had captured numerous djinns and harnessed their powers for his own gain."
         },
@@ -147,7 +147,7 @@
             "id": 15,
             "name": "Earth Elemental",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [],
             "description": "There is an Earth elemental labeled as golem in the cave under the Kaedweni camp near the shore by the Nilfgaardian camp, in Chapter II. You can find it by exploring the caves while searching for Triss. Another one can be found in Kingslayers' hideout."
         },
@@ -155,7 +155,7 @@
             "id": 16,
             "name": "Fire Elemental",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [],
             "description": "There is a hit detection issue during combat with this type of golem, sometimes allowing it to cause damage even when it appears to miss."
         },
@@ -163,7 +163,7 @@
             "id": 17,
             "name": "Gargoyle",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [],
             "description": "Gargoyles are animated stone statues infused with lava by mages."
         },
@@ -171,7 +171,7 @@
             "id": 18,
             "name": "Golem",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [],
             "description": "Frustrating jobs happen in every profession. Golem contracts are just such a job for witchers, as they involve slashing through solid rock animated by magic. Luckily, what is brought to life by a lightning bolt can very well be destroyed by one. This is something we all truly wish the golem, from the very bottom of our hearts."
         },
@@ -179,7 +179,7 @@
             "id": 19,
             "name": "Hound of the Wild Hunt",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [
                 1,
                 4
@@ -190,7 +190,7 @@
             "id": 20,
             "name": "Ice Elemental",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [],
             "description": "An ice elemental is a mass of frozen water animated by magic. Deprived of consciousness or independent will, this elemental is boundlessly obedient to the orders of the mage who created it. Those orders usually contain but one syllable: kill."
         },
@@ -198,7 +198,7 @@
             "id": 21,
             "name": "The Apiarian Phantom",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [
                 1,
                 4
@@ -209,7 +209,7 @@
             "id": 22,
             "name": "Therazane",
             "class": "Elementa",
-            "oilweakness": 0,
+            "oilweakness": 3,
             "signweakness": [],
             "description": "Therazane is a powerful earth elemental which had been imprisoned by its previous owner in a magical prison, located inside elven ruins found just underneath Moldavie Residence."
         },
@@ -217,7 +217,7 @@
             "id": 23,
             "name": "Erynia",
             "class": "Hybrids",
-            "oilweakness": 0,
+            "oilweakness": 4,
             "signweakness": [
                 1
             ],
@@ -227,7 +227,7 @@
             "id": 24,
             "name": "Griffin",
             "class": "Hybrids",
-            "oilweakness": 0,
+            "oilweakness": 4,
             "signweakness": [
                 0
             ],
@@ -237,7 +237,7 @@
             "id": 25,
             "name": "Harpy",
             "class": "Hybrids",
-            "oilweakness": 0,
+            "oilweakness": 4,
             "signweakness": [
                 1
             ],
@@ -247,7 +247,7 @@
             "id": 26,
             "name": "Melusine",
             "class": "Hybrids",
-            "oilweakness": 0,
+            "oilweakness": 4,
             "signweakness": [
                 0,
                 1
@@ -258,7 +258,7 @@
             "id": 27,
             "name": "Opinicus",
             "class": "Hybrids",
-            "oilweakness": 0,
+            "oilweakness": 4,
             "signweakness": [
                 0
             ],
@@ -268,7 +268,7 @@
             "id": 28,
             "name": "Siren",
             "class": "Hybrids",
-            "oilweakness": 0,
+            "oilweakness": 4,
             "signweakness": [
                 0,
                 1
@@ -279,7 +279,7 @@
             "id": 29,
             "name": "Succubus",
             "class": "Hybrids",
-            "oilweakness": 0,
+            "oilweakness": 4,
             "signweakness": [
                 2
             ],
@@ -289,7 +289,7 @@
             "id": 30,
             "name": "Arachas",
             "class": "Insectoids",
-            "oilweakness": 0,
+            "oilweakness": 5,
             "signweakness": [],
             "description": "Arachas, or crab spider, is a large insectoid. It has a distinctly large abdomen."
         },
@@ -297,7 +297,7 @@
             "id": 31,
             "name": "Armored arachas",
             "class": "Insectoids",
-            "oilweakness": 0,
+            "oilweakness": 5,
             "signweakness": [],
             "description": "An armored arachas is a true behemoth. It uses its enormous mass to knock over and trample its victims then devours their crushed remains. Like all arachasae, it is highly venomous, and thus Golden Oriole should always be consumed before fighting it."
         },
@@ -305,7 +305,7 @@
             "id": 32,
             "name": "Endrega drone",
             "class": "Insectoids",
-            "oilweakness": 0,
+            "oilweakness": 5,
             "signweakness": [],
             "description": "Endrega males – called 'drones' – are gluttonous creatures whose only aim in life is to eat, fight and reproduce. Yet when venturing outside their nests, these aggressive hunters attack any and every creature they come across."
         },
@@ -313,7 +313,7 @@
             "id": 33,
             "name": "Endrega warrior",
             "class": "Insectoids",
-            "oilweakness": 0,
+            "oilweakness": 5,
             "signweakness": [],
             "description": "Scared of these endregas, are you? Just wait till you see the warriors."
         },
@@ -321,7 +321,7 @@
             "id": 34,
             "name": "Endrega worker",
             "class": "Insectoids",
-            "oilweakness": 0,
+            "oilweakness": 5,
             "signweakness": [],
             "description": "I thought the workers were harmless. I thought wrong."
         },
@@ -329,7 +329,7 @@
             "id": 35,
             "name": "Harrisi",
             "class": "Insectoids",
-            "oilweakness": 0,
+            "oilweakness": 5,
             "signweakness": [],
             "description": "Harrisi is a powerful venomous arachas who has made her home in an abandoned mine located near the battlefront between Nilfgaard and Redania."
         },
@@ -337,7 +337,7 @@
             "id": 36,
             "name": "Venomous arachas",
             "class": "Insectoids",
-            "oilweakness": 0,
+            "oilweakness": 5,
             "signweakness": [],
             "description": "Though all arachasae are highly venomous, this breed produces an especially strong toxin. A few drops are enough to kill a grown man – unless that man is a witcher, whose mutations will neutralize small amounts of this venom. Large quantities, however, will kill anything they touch, with mutations only prolonging an inevitable and painful death in such instances."
         },
@@ -345,7 +345,7 @@
             "id": 37,
             "name": "Abaya",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 1,
                 2
@@ -356,7 +356,7 @@
             "id": 38,
             "name": "Alghoul",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 4
             ],
@@ -366,7 +366,7 @@
             "id": 39,
             "name": "Drowner",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 1
             ],
@@ -376,7 +376,7 @@
             "id": 40,
             "name": "Fogler",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 2
             ],
@@ -386,7 +386,7 @@
             "id": 41,
             "name": "Ghoul",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [],
             "description": "Ghouls are the most common corpse-eaters and usually roam around in packs."
         },
@@ -394,7 +394,7 @@
             "id": 42,
             "name": "Grave hag",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 2,
                 3
@@ -405,7 +405,7 @@
             "id": 43,
             "name": "Ignis Fatuus",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 2
             ],
@@ -415,7 +415,7 @@
             "id": 44,
             "name": "Mourntart",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 2,
                 3
@@ -426,7 +426,7 @@
             "id": 45,
             "name": "Mucknixer",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 1
             ],
@@ -436,7 +436,7 @@
             "id": 46,
             "name": "Rotfiend",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [],
             "description": "What rotfiends are, everyone can see."
         },
@@ -444,7 +444,7 @@
             "id": 47,
             "name": "Water hag",
             "class": "Necrophages",
-            "oilweakness": 0,
+            "oilweakness": 6,
             "signweakness": [
                 1,
                 2
@@ -455,7 +455,7 @@
             "id": 48,
             "name": "Chort",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [],
             "description": "Chorts are the somewhat smaller kin of fiends and bumbakvetches."
         },
@@ -463,7 +463,7 @@
             "id": 49,
             "name": "Crones",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [
                 2
             ],
@@ -473,7 +473,7 @@
             "id": 50,
             "name": "Doppler",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [],
             "description": "Dopplers (also called shifters, mimics, doubles, imitators, or pavrats) are shapeshifters who can take the form of anyone or any beast they have encountered, provided it has a similar body weight. They used to live in the plateau near modern-day Novigrad but moved to the city itself after it proved to offer more possibilities of survival."
         },
@@ -481,7 +481,7 @@
             "id": 51,
             "name": "Fiend",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [],
             "description": "The beast likely resembles a deer but its size resembles more a barn. Fiends also have a third eye which they use to hypnotize its opponents."
         },
@@ -489,7 +489,7 @@
             "id": 52,
             "name": "Fugas",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [],
             "description": "Fugas was one of many servants of the Ladies of the Woods, who lived in Bald Mountain."
         },
@@ -497,7 +497,7 @@
             "id": 53,
             "name": "Godling",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [],
             "description": "Godling (Polish: bożątko) is a rare being capable of communicating in the common tongue."
         },
@@ -505,7 +505,7 @@
             "id": 54,
             "name": "Howler",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [],
             "description": "Howler (Polish: Wyjec) is a powerful chort which has made its home near the village of Lindenvale."
         },
@@ -513,7 +513,7 @@
             "id": 55,
             "name": "Janne",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [],
             "description": "Janne, or better known as Imp, was a doppler who lived in Novigrad around 1272."
         },
@@ -521,7 +521,7 @@
             "id": 56,
             "name": "Kernun",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [
                 1
             ],
@@ -531,7 +531,7 @@
             "id": 57,
             "name": "Leshy",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [
                 1
             ],
@@ -541,7 +541,7 @@
             "id": 58,
             "name": "Morvudd",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [],
             "description": "Morvudd (Nilfgaardian language: enemy) is a powerful fiend who has made its home in the ruined village of Boxholm."
         },
@@ -549,7 +549,7 @@
             "id": 59,
             "name": "Sylvan",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [
                 1
             ],
@@ -559,7 +559,7 @@
             "id": 60,
             "name": "Woodland Spirit",
             "class": "Relicts",
-            "oilweakness": 0,
+            "oilweakness": 8,
             "signweakness": [
                 1
             ],
@@ -569,7 +569,7 @@
             "id": 61,
             "name": "Devil by the Well",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [
                 3
             ],
@@ -579,7 +579,7 @@
             "id": 62,
             "name": "Hym",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [
                 1
             ],
@@ -589,7 +589,7 @@
             "id": 63,
             "name": "Jenny o' the Woods",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [
                 3
             ],
@@ -599,7 +599,7 @@
             "id": 64,
             "name": "Nightwraith",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [
                 3
             ],
@@ -609,7 +609,7 @@
             "id": 65,
             "name": "Noonwraith",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [
                 3
             ],
@@ -619,7 +619,7 @@
             "id": 66,
             "name": "Penitent",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [
                 2,
                 3
@@ -630,7 +630,7 @@
             "id": 67,
             "name": "Plague maiden",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [
                 3
             ],
@@ -640,7 +640,7 @@
             "id": 68,
             "name": "The White Lady",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [
                 3
             ],
@@ -650,7 +650,7 @@
             "id": 69,
             "name": "Wraith",
             "class": "Specters",
-            "oilweakness": 0,
+            "oilweakness": 9,
             "signweakness": [],
             "description": "Wraiths appear near cemeteries or in homes they inhabited during their lives."
         },
@@ -658,7 +658,7 @@
             "id": 70,
             "name": "Ekimma",
             "class": "Vampires",
-            "oilweakness": 0,
+            "oilweakness": 10,
             "signweakness": [
                 1
             ],
@@ -668,7 +668,7 @@
             "id": 71,
             "name": "Gael",
             "class": "Vampires",
-            "oilweakness": 0,
+            "oilweakness": 10,
             "signweakness": [
                 1,
                 3
@@ -679,7 +679,7 @@
             "id": 72,
             "name": "Higher Vampire",
             "class": "Vampires",
-            "oilweakness": 0,
+            "oilweakness": 10,
             "signweakness": [
                 1
             ],
@@ -689,7 +689,7 @@
             "id": 73,
             "name": "Katakan",
             "class": "Vampires",
-            "oilweakness": 0,
+            "oilweakness": 10,
             "signweakness": [
                 1,
                 3
@@ -700,7 +700,7 @@
             "id": 74,
             "name": "Sarasti",
             "class": "Vampires",
-            "oilweakness": 0,
+            "oilweakness": 10,
             "signweakness": [
                 1
             ],
@@ -710,7 +710,7 @@
             "id": 75,
             "name": "Cyclops",
             "class": "Ogroids",
-            "oilweakness": 0,
+            "oilweakness": 7,
             "signweakness": [
                 2,
                 4
@@ -721,7 +721,7 @@
             "id": 76,
             "name": "Hagubman",
             "class": "Ogroids",
-            "oilweakness": 0,
+            "oilweakness": 7,
             "signweakness": [],
             "description": "Cyclopses can easily be recognized by the single eye located in the center of their foreheads. If for some reason that is not visible, other tell-tale signs are their enormous size, incredible strength and a seething hatred for all humans."
         },
@@ -729,7 +729,7 @@
             "id": 77,
             "name": "Ice giant",
             "class": "Ogroids",
-            "oilweakness": 0,
+            "oilweakness": 7,
             "signweakness": [
                 2
             ],
@@ -739,7 +739,7 @@
             "id": 78,
             "name": "Ice troll",
             "class": "Ogroids",
-            "oilweakness": 0,
+            "oilweakness": 7,
             "signweakness": [
                 2
             ],
@@ -749,7 +749,7 @@
             "id": 79,
             "name": "Nekker",
             "class": "Ogroids",
-            "oilweakness": 0,
+            "oilweakness": 7,
             "signweakness": [],
             "description": "Nekkers rarely attack alone, they tend to be found in groups near a nest. If the nest is not destroyed using either Samum or Grapeshot, they continue to spawn."
         },
@@ -757,7 +757,7 @@
             "id": 80,
             "name": "Rock troll",
             "class": "Ogroids",
-            "oilweakness": 0,
+            "oilweakness": 7,
             "signweakness": [
                 2
             ],
@@ -767,100 +767,11 @@
             "id": 81,
             "name": "Wham-a-Wham",
             "class": "Ogroids",
-            "oilweakness": 0,
+            "oilweakness": 7,
             "signweakness": [
                 2
             ],
             "description": "Wham-a-Wham is a powerful volcanic-like Rock Troll living inside a silver-rich cave on Ard Skellig."
         }
-    ],
-
-
-    "signs": [
-        {
-            "id": 0,
-            "name": "Aard",
-            "description": "The Aard sign is a simple magical sign used by witchers. A directed blast of telekinetic energy that staggers opponents, leaving them open for a subsequent attack. This sign casts a directed wave of telekinetic energy that can stagger or knock down opponents, leaving them open for attack. Aard can also blow out any existing fires, blast open poorly secured doors, or punch through cracked or damaged walls or floors."
-        },
-        {
-            "id": 1,
-            "name": "Igni",
-            "description": "The Igni sign is a simple magical sign used by witchers. It is comprised of a pyrokinetic burst that can repel and ignite opponents, as well as start fires. The fiery Igni Sign allows Geralt of Rivia to spread a wave of embers at his foes. It can also be used for something more subtle, such as lighting a torch or a campfire. Igni is incredibly effective against foes that are weak to fire. It can light enemies on fire and do damage over time. In some cases, this effect causes the enemy to panic. Additionally, any flammable gases in the air can be ignited to cause powerful explosions that can hurt and stun your enemies. Damage for Igni scales with Sign Intensity"
-        },
-        {
-            "id": 2,
-            "name": "Quen",
-            "description": "The Quen sign is a simple magical sign used by witchers. When cast it forms a protective field around the casting witcher. This sign can be the difference between life and death. Quen's basic ability is to cover Geralt in a basic shield that absorbs a limited amount of damage."
-        },
-        {
-            "id": 3,
-            "name": "Yrden",
-            "description": "The Yrden sign is a simple magical sign used by witchers. It forms a magical trap on the ground that triggers a limited number of times when traversed by a foe causing knock back, damage, and a chance of inflicting status ailments. Cast this Sign and a circle of Yrden symbols appears around Geralt. Most foes that wander into that ring are significantly slowed, though some monsters are unaffected by it."
-        },
-        {
-            "id": 4,
-            "name": "Axii",
-            "description": "The Axii sign is a simple magical sign used by witchers. It is a mental wave that triggers a hex that causes an enemy to fight alongside the witcher. The effect can wear off over time or be broken via damage from the casting witcher. This sign muddles the mind of an opponent, making it possible to take them out of the fight temporarily. It's the most effective against humans, but can also work on certain monsters. Target an enemy that looks especially troublesome, then cast Axii to keep them out of the fight until you're ready to deal with them."
-        }
-    ],
-
-    
-
-        "oils": [     
-          {
-           "id": 0,
-           "name": "Beast oil"
-         },
-        
-         {
-          "id": 1,
-          "name": "Cursed oil"
-        },
-        
-        {
-          "id": 2,
-          "name": "Draconid oil"
-        },
-        
-        {
-          "id": 3,
-          "name": "Elementa oil"
-        },
-        
-        {
-          "id": 4,
-          "name": "Hybrid oil"
-        },
-        
-        {
-          "id": 5,
-          "name": "Insectoid oil"
-        },
-        
-        {
-          "id": 6,
-          "name": "Necrophage oil"
-        },
-        
-        {
-          "id": 7,
-          "name": "Ogroid oil"
-        },
-        
-        {
-          "id": 8,
-          "name": "Relict oil"
-        },
-        
-        {
-          "id": 9,
-          "name": "Specter oil"
-        },
-        
-        {
-          "id": 10,
-          "name": "Vampire oil"
-        }
-          ]
-        
+    ]
 }
